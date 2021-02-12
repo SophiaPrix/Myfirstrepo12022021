@@ -1,7 +1,5 @@
-# Myfirstrepo12022021
-R-Workshop 2nd Semester; Test Version. 
-
 # Starterpack for a good morning
-Cooofeee 
+1) Coooffeee 
+2) good humour 
 
 I don't like when I do not see any changes
